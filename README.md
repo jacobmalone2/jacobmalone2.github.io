@@ -24,7 +24,7 @@ Kaden McEntire <br/>
 A top-down dungeon crawler game about beating up skeletons and stealing cool items from their stashes. You can play as a knight covered head to toe in armor, or as a ranger who can speed shoot with a crossbow.
 Our group made this project for our game development course and certificate.
 We acquired the art assets from some professionals, since none of us knew how to draw, or make music.
-We hope you enjoy this short game.
+We hope you enjoy this game.
 
 ## How to Install:
 Visit the link to the build and download the files. <br/>
@@ -44,3 +44,14 @@ Kay Lousberg https://kaylousberg.itch.io <br/>
 Kim Lightyear https://pixabay.com/users/lightyeartraxx <br/>
 AmeAngelofSin https://freesound.org/people/AmeAngelofSin/ <br/>
 Jorge Roku https://sketchfab.com/jorgeroku <br/>
+<br/>
+<br/>
+# Assignment Grader
+A small Windows Form app where you input the amount of students and assignments you want to grade. It can be scored out of 100. You can also rename the student.
+It will then calculate the average grade and display it along side assignment scores.
+
+## How to Setup:
+Visit the link for the Assignment Grader repository and download the files. <br/>
+Compile and run the program. <br/>
+
+Repo: https://github.com/jacobmalone2/AssignmentGrader
