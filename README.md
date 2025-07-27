@@ -21,7 +21,7 @@ Kaden McEntire <br/>
 <br/>
 <br/>
 # Crown The Void
-A dungeon crawler game about beating up skeletons and stealing cool items from their stashes.
+A top-down dungeon crawler game about beating up skeletons and stealing cool items from their stashes. You can play as a knight covered head to toe in armor, or as a ranger who can speed shoot with a crossbow.
 Our group made this project for our game development course and certificate.
 We acquired the art assets from some professionals, since none of us knew how to draw, or make music.
 We hope you enjoy this short game.
