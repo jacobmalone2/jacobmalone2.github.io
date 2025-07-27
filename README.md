@@ -12,7 +12,7 @@ Compile and run the program, and create an account for a student and professor. 
 
 Repo:https://github.com/jacobmalone2/Generic_eLearning
 
-## Credits:
+## Credits
 Kevin Greenwood <br/>
 Jacob Malone <br/>
 Carter Fausett <br/>
