@@ -1,5 +1,5 @@
 # About Me
-Hello! My name is Jacob Malone and I am a Computer Science student over at Weber State University. I have also been working in IT for the last four years. My hobbies include playing video and tabletop games, and reading about history. I also enjoy the troubleshooting and debugging aspects of software.
+Hello! My name is Jacob Malone and I am a Computer Science student over at Weber State University. I have also been working in IT for the last four years. My hobbies include playing video games and tabletop games, and reading about history. I also enjoy the troubleshooting and debugging aspects of software.
 
 # Learning Management System
 For a software engineering class, me and my group built and designed an eLearning management system.
@@ -56,6 +56,7 @@ Jorge Roku https://sketchfab.com/jorgeroku <br/>
 # Assignment Grader
 A small Windows Form app where you input the amount of students and assignments you want to grade. It can be scored out of 100. You can also rename the student.
 It will then calculate the average grade and display it along side assignment scores.
+<img width="731" height="609" alt="image" src="https://github.com/user-attachments/assets/10ecee1e-864f-42b0-8ac8-bb3e0e257b2a" />
 
 ## How to Setup:
 Visit the link for the Assignment Grader repository and download the files. <br/>
