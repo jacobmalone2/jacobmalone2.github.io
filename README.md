@@ -1,3 +1,6 @@
+# About Me
+Hello! My name is Jacob Malone and I am a Computer Science student over at Weber State University. I have also been working in IT for the last four years. My hobbies include playing video and tabletop games, and reading about history. I also enjoy the troubleshooting and debugging aspects of software.
+
 # Learning Management System
 For a software engineering class, me and my group built and designed an eLearning management system.
 Here, professors can create and manage courses. Students can register for and participate in classes, and submit files for assignments.
@@ -25,8 +28,12 @@ A top-down dungeon crawler game about beating up skeletons and stealing cool ite
 Our group made this project for our game development course and certificate.
 We acquired the art assets from some professionals, since none of us knew how to draw, or make music.
 We hope you enjoy this game.
+<img width="1920" height="1080" alt="Title" src="https://github.com/user-attachments/assets/f1dbdd0e-478d-4c20-9f03-a4e8bc749d91" />
+![melee_combat](https://github.com/user-attachments/assets/14331344-e3ea-42c7-8bd0-55278e5e869a)
+![ranger](https://github.com/user-attachments/assets/009383a3-26aa-4b58-8cf6-2020d797584d)
 
 ## How to Install:
+
 Visit the link to the build and download the files. <br/>
 Unzip UnityPlayer to the same folder that "Crown the Void.exe" is in.
 
