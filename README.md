@@ -5,6 +5,14 @@ Hello! My name is Jacob Malone and I am a Computer Science student over at Weber
 For a software engineering class, me and my group built and designed an eLearning management system.
 Here, professors can create and manage courses. Students can register for and participate in classes, and submit files for assignments.
 Information created here is stored in a MSSQL database. Payments are processed via Stripe.
+### Student View
+<img width="1311" height="506" alt="Screenshot 2025-08-01 190324" src="https://github.com/user-attachments/assets/8eb93ac8-3ed9-473e-83fd-ab7759ea235e" />
+<img width="1325" height="772" alt="Screenshot 2025-08-01 190258" src="https://github.com/user-attachments/assets/2d4f9d9e-f3c7-4175-8a9f-7c7352a880d1" />
+<img width="1288" height="399" alt="Screenshot 2025-08-01 190331" src="https://github.com/user-attachments/assets/e876d117-f297-49c6-a834-1d05e21321b9" />
+
+### Professor View
+<img width="1306" height="238" alt="Screenshot 2025-08-01 190741" src="https://github.com/user-attachments/assets/bcda09d2-e2bb-46df-be14-353913142361" />
+<img width="1297" height="448" alt="Screenshot 2025-08-01 190622" src="https://github.com/user-attachments/assets/3be0f2c3-01a0-4d29-a185-90c0052db2af" />
 
 ## How to Setup:
 Visit the link for the Generic_eLearning repository and download the files. <br/>
